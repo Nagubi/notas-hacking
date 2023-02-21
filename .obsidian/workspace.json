@@ -90,9 +90,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd75b7d217e4b682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos-Bandit/Level 10 al 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da34b96ba137fc93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos-Bandit/Level 11 al 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c72d5cf86c14ecf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos-Bandit/Level 12 al 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4492731b3d430f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos-Bandit/Level 13 al 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6203cc96e50449f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos-Bandit/Level 14 al 15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b275af3dd3b0e7c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -158,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Bandit/Level 9 al 10.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Bandit/Level 9 al 10.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Bandit/Level 9 al 10.md"
+                "file": "README.md"
               }
             }
           }
@@ -219,17 +291,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5aa2b130b983e591",
+  "active": "b275af3dd3b0e7c7",
   "lastOpenFiles": [
-    "Retos-Bandit/Level 8 al 9.md",
-    "Retos-Bandit/Level 9 al 10.md",
-    "Retos-Bandit/Level 7 al 8.md",
-    "Retos-Bandit/Level 6 al 7.md",
+    "Retos-Bandit/Level 15 al 16.md",
+    "Retos-Bandit/Level 14 al 15.md",
+    "Retos-Bandit/Level 13 al 14.md",
+    "Retos-Bandit/Level 12 al 13.md",
+    "Retos-Bandit/Level 11 al 12.md",
+    "Retos-Bandit/Level 10 al 11.md",
     "Retos-Bandit/Level 0.md",
-    "Retos-Bandit/Level 3 al 4.md",
-    "Retos-Bandit/Level 4 al 5.md",
-    "Retos-Bandit/Level 2 al 3.md",
-    "Retos-Bandit/Level 1 al 2.md",
-    "Retos-Bandit/Level 5 al 6.md"
+    "Retos-Bandit/Level 9 al 10.md",
+    "Retos-Bandit/Level 8 al 9.md",
+    "Retos-Bandit/Level 7 al 8.md"
   ]
 }
