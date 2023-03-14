@@ -762,9 +762,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5022c6e202db7cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/07 - Irish-Name-Repo 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2be658d4a0676fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/08 - Irish-Name-Repo 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60c3b7a41e290abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/09 - Irish-Name-Repo 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "318b07787eaea7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/10 - JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 62
+        "currentTab": 66
       }
     ],
     "direction": "vertical"
@@ -830,7 +878,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/06 - Client-side-again.md",
+                "file": "PicoCTF/10 - JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -847,7 +895,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/06 - Client-side-again.md",
+                "file": "PicoCTF/10 - JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -870,7 +918,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/06 - Client-side-again.md"
+                "file": "PicoCTF/10 - JaWT Scratchpad.md"
               }
             }
           }
@@ -891,10 +939,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4aac13dd0a5d7657",
+  "active": "318b07787eaea7b3",
   "lastOpenFiles": [
-    "PicoCTF/05 - picobrowser.md",
+    "PicoCTF/09 - Irish-Name-Repo 3.md",
+    "PicoCTF/10 - JaWT Scratchpad.md",
+    "PicoCTF/08 - Irish-Name-Repo 2.md",
+    "PicoCTF/07 - Irish-Name-Repo 1.md",
     "PicoCTF/06 - Client-side-again.md",
+    "PicoCTF/05 - picobrowser.md",
     "PicoCTF/04 - dont-use-client-side.md",
     "PicoCTF/03 - logon.md",
     "PicoCTF/02 - where are the robots.md",
@@ -915,10 +967,6 @@
     "Primer-Examen-Parcial/Beginner-PicoMini-2022/08 - PW Crack 2.md",
     "Primer-Examen-Parcial/Beginner-PicoMini-2022/07 - PW Crack 1.md",
     "Primer-Examen-Parcial/Beginner-PicoMini-2022/06 - Glitch Cat.md",
-    "Primer-Examen-Parcial/Beginner-PicoMini-2022/05 - fixme2.py.md",
-    "Primer-Examen-Parcial/Beginner-PicoMini-2022/03 - Codebook.md",
-    "Primer-Examen-Parcial/Beginner-PicoMini-2022/02 - convertme.py.md",
-    "Primer-Examen-Parcial/Beginner-PicoMini-2022/04 - fixme1.py.md",
-    "Primer-Examen-Parcial/Beginner-PicoMini-2022/01 - runme.py.md"
+    "Primer-Examen-Parcial/Beginner-PicoMini-2022/05 - fixme2.py.md"
   ]
 }
