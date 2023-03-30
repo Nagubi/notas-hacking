@@ -966,9 +966,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73d9bc832aeab417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/24 - WebNet0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94b116bb65908ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/25 - WebNet1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7a726bfc16894b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/26 - Matryoshka doll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10c09ecab453ca53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/27 - tunn3l v1s10n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40001f7d4bc3dcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/28 - MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 79
+        "currentTab": 84
       }
     ],
     "direction": "vertical"
@@ -1034,7 +1094,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/23 - shark on wire 2.md",
+                "file": "PicoCTF/28 - MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1051,7 +1111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/23 - shark on wire 2.md",
+                "file": "PicoCTF/28 - MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1074,7 +1134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/23 - shark on wire 2.md"
+                "file": "PicoCTF/28 - MacroHard WeakEdge.md"
               }
             }
           }
@@ -1095,17 +1155,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1a1a590bfebce612",
+  "active": "40001f7d4bc3dcae",
   "lastOpenFiles": [
-    "PicoCTF/16 - shark on wire 1.md",
+    "PicoCTF/27 - tunn3l v1s10n.md",
+    "PicoCTF/26 - Matryoshka doll.md",
+    "PicoCTF/25 - WebNet1.md",
+    "PicoCTF/24 - WebNet0.md",
+    "PicoCTF/23 - shark on wire 2.md",
     "PicoCTF/22 - like1000.md",
+    "PicoCTF/28 - MacroHard WeakEdge.md",
+    "PicoCTF/16 - shark on wire 1.md",
     "PicoCTF/21 - c0rrupt.md",
     "PicoCTF/14 - Glory of the Garden.md",
     "PicoCTF/15 - So Meta.md",
     "PicoCTF/17 - extensions.md",
     "PicoCTF/18 - What Lies Within.md",
     "PicoCTF/20 - WhitePages.md",
-    "PicoCTF/23 - shark on wire 2.md",
     "PicoCTF/19 - m00nwalk.md",
     "PicoCTF/13 - Scavenger Hunt.md",
     "PicoCTF/12 - Cookies.md",
@@ -1118,11 +1183,6 @@
     "PicoCTF/05 - picobrowser.md",
     "PicoCTF/04 - dont-use-client-side.md",
     "PicoCTF/03 - logon.md",
-    "PicoCTF/02 - where are the robots.md",
-    "PicoCTF/01 - Insp3ct0r.md",
-    "Primer-Examen-Parcial/Pico-CTF-2019/01 - Lets Warm Up.md",
-    "Untitled.md",
-    "Retos-Bandit/Plantilla.md",
     "PicoCTF"
   ]
 }
