@@ -1021,7 +1021,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/28 - MacroHard WeakEdge.md",
+                "file": "picoCTF 2023/Reverse.md",
                 "mode": "source",
                 "source": false
               }
@@ -1094,7 +1094,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/28 - MacroHard WeakEdge.md",
+                "file": "picoCTF 2023/Reverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1111,7 +1111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/28 - MacroHard WeakEdge.md",
+                "file": "picoCTF 2023/Reverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1134,7 +1134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/28 - MacroHard WeakEdge.md"
+                "file": "picoCTF 2023/Reverse.md"
               }
             }
           }
@@ -1157,13 +1157,18 @@
   },
   "active": "40001f7d4bc3dcae",
   "lastOpenFiles": [
+    "picoCTF 2023/Rules2023.md",
+    "picoCTF 2023/rotation.md",
+    "picoCTF 2023/Safe Opener 2.md",
+    "picoCTF 2023/timer.md",
+    "picoCTF 2023/who is it.md",
+    "PicoCTF/28 - MacroHard WeakEdge.md",
     "PicoCTF/27 - tunn3l v1s10n.md",
     "PicoCTF/26 - Matryoshka doll.md",
     "PicoCTF/25 - WebNet1.md",
     "PicoCTF/24 - WebNet0.md",
     "PicoCTF/23 - shark on wire 2.md",
     "PicoCTF/22 - like1000.md",
-    "PicoCTF/28 - MacroHard WeakEdge.md",
     "PicoCTF/16 - shark on wire 1.md",
     "PicoCTF/21 - c0rrupt.md",
     "PicoCTF/14 - Glory of the Garden.md",
@@ -1178,11 +1183,6 @@
     "PicoCTF/10 - JaWT Scratchpad.md",
     "PicoCTF/09 - Irish-Name-Repo 3.md",
     "PicoCTF/08 - Irish-Name-Repo 2.md",
-    "PicoCTF/07 - Irish-Name-Repo 1.md",
-    "PicoCTF/06 - Client-side-again.md",
-    "PicoCTF/05 - picobrowser.md",
-    "PicoCTF/04 - dont-use-client-side.md",
-    "PicoCTF/03 - logon.md",
     "PicoCTF"
   ]
 }
