@@ -12,3 +12,7 @@ angelnaguibjaidar@gmail.com
 	-Beginner PicoMini 2022
 	-Pico CTF 2019
 	-Pico CTF 2021
+3. Examen Parcial 2
+	-Pico CTF 2022 - Web
+	-Pico CTF 2021 - Forensic
+	-Pico CTF 2021	

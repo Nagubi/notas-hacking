@@ -1021,14 +1021,302 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2023/Reverse.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1ce4a05cd1e900c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/01 - Includes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d761e4b7639845ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/02 - Inspect HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3831da038d2fb8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/03 - Local Authority.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e58a7bad79845d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/04 - Search Source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44556b1fef9597a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/05 - Forbidden Paths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1bacc45bddbbe1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/06 - Power Cookie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "328d94900d1d5ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/06 - Power Cookie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0b38c2a952a8377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/08 - Secrets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cf4f8728ddd4590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/09 - SQL Direct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f95103adc8df2f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/10 - SQLLite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32463087032e85f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/11 - information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6afd8a26da5b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/12 - Wireshark doo dooo do doo...md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b240e75054b2b923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/13 - Enhance!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ea5151cede61e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/14 - Lookey here.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b76aa9e92ba52ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/15 - Packets Primer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "962f904862b47b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/16 - Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0949bad699993292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/17 - St3g0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64dac9b413815136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/29 - The numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "796d6c232ae05aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/30 - Easy1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a02afecaba3c5fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/31 - 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7f6e29df5e8e20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/32 - Caesar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "623bc282844e3680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/33 - la cifra de.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef792f9f8dcfb3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/34 - Tapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e32a71eae877491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-Examen-Parcial/10 - SQLLite.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 84
+        "currentTab": 108
       }
     ],
     "direction": "vertical"
@@ -1094,7 +1382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2023/Reverse.md",
+                "file": "Segundo-Examen-Parcial/10 - SQLLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1111,7 +1399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2023/Reverse.md",
+                "file": "Segundo-Examen-Parcial/10 - SQLLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1134,7 +1422,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2023/Reverse.md"
+                "file": "Segundo-Examen-Parcial/10 - SQLLite.md"
               }
             }
           }
@@ -1155,34 +1443,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "40001f7d4bc3dcae",
+  "active": "1e32a71eae877491",
   "lastOpenFiles": [
-    "picoCTF 2023/Rules2023.md",
-    "picoCTF 2023/rotation.md",
-    "picoCTF 2023/Safe Opener 2.md",
-    "picoCTF 2023/timer.md",
-    "picoCTF 2023/who is it.md",
+    "PicoCTF/35 - waves over lambda.md",
+    "PicoCTF/34 - Tapping.md",
+    "PicoCTF/33 - la cifra de.md",
+    "PicoCTF/32 - Caesar.md",
+    "PicoCTF/31 - 13.md",
+    "PicoCTF/30 - Easy1.md",
+    "PicoCTF/Untitled 5.md",
+    "PicoCTF/29 - The numbers.md",
     "PicoCTF/28 - MacroHard WeakEdge.md",
-    "PicoCTF/27 - tunn3l v1s10n.md",
-    "PicoCTF/26 - Matryoshka doll.md",
-    "PicoCTF/25 - WebNet1.md",
-    "PicoCTF/24 - WebNet0.md",
-    "PicoCTF/23 - shark on wire 2.md",
-    "PicoCTF/22 - like1000.md",
-    "PicoCTF/16 - shark on wire 1.md",
-    "PicoCTF/21 - c0rrupt.md",
-    "PicoCTF/14 - Glory of the Garden.md",
-    "PicoCTF/15 - So Meta.md",
-    "PicoCTF/17 - extensions.md",
-    "PicoCTF/18 - What Lies Within.md",
-    "PicoCTF/20 - WhitePages.md",
-    "PicoCTF/19 - m00nwalk.md",
-    "PicoCTF/13 - Scavenger Hunt.md",
-    "PicoCTF/12 - Cookies.md",
-    "PicoCTF/11 - GET aHEAD.md",
-    "PicoCTF/10 - JaWT Scratchpad.md",
-    "PicoCTF/09 - Irish-Name-Repo 3.md",
-    "PicoCTF/08 - Irish-Name-Repo 2.md",
+    "Segundo-Examen-Parcial/17 - St3g0.md",
+    "Segundo-Examen-Parcial/16 - Redaction gone wrong.md",
+    "Segundo-Examen-Parcial/15 - Packets Primer.md",
+    "Segundo-Examen-Parcial/14 - Lookey here.md",
+    "Segundo-Examen-Parcial/12 - Wireshark doo dooo do doo...md",
+    "Segundo-Examen-Parcial/13 - Enhance!.md",
+    "Segundo-Examen-Parcial/10 - SQLLite.md",
+    "Segundo-Examen-Parcial/11 - information.md",
+    "Segundo-Examen-Parcial/09 - SQL Direct.md",
+    "Segundo-Examen-Parcial/08 - Secrets.md",
+    "Segundo-Examen-Parcial/05 - Forbidden Paths.md",
+    "Segundo-Examen-Parcial/06 - Power Cookie.md",
+    "Segundo-Examen-Parcial/07 - Roboto Sans.md",
+    "Segundo-Examen-Parcial/04 - Search Source.md",
+    "Segundo-Examen-Parcial/03 - Local Authority.md",
+    "Segundo-Examen-Parcial/02 - Inspect HTML.md",
+    "Segundo-Examen-Parcial/01 - Includes.md",
+    "Segundo-Examen-Parcial/Untitled",
+    "Segundo-Examen-Parcial",
     "PicoCTF"
   ]
 }
