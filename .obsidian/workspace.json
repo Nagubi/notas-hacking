@@ -1314,9 +1314,117 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae7c004350d66447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/36 - rsa-pop-quiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77bb1417d0c623c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/36 - rsa-pop-quiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e2d5b99a6936eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/37 - miniRSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aa9114d03e51bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/38 - b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a6120432cfab53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/39 -  Mind your Ps and Qs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee704d1624f41684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/40 - Pixelated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4e9c9f7962809b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/41 - basic-mod1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f1b5b9c1d9cf0d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF 2023/ReadMyCert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "878dbea0cf73b49f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/43 - ReadMyCert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 108
+        "currentTab": 117
       }
     ],
     "direction": "vertical"
@@ -1382,7 +1490,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo-Examen-Parcial/10 - SQLLite.md",
+                "file": "PicoCTF/43 - ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1399,7 +1507,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo-Examen-Parcial/10 - SQLLite.md",
+                "file": "PicoCTF/43 - ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1422,7 +1530,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo-Examen-Parcial/10 - SQLLite.md"
+                "file": "PicoCTF/43 - ReadMyCert.md"
               }
             }
           }
@@ -1435,17 +1543,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "1e32a71eae877491",
+  "active": "5b276956de8078e4",
   "lastOpenFiles": [
+    "PicoCTF/41 - basic-mod1.md",
+    "PicoCTF/43 - ReadMyCert.md",
+    "PicoCTF/42 - HideToSee.md",
+    "picoCTF 2023/ReadMyCert.md",
+    "picoCTF 2023/HideToSee.md",
+    "PicoCTF/40 - Pixelated.md",
+    "PicoCTF/39 -  Mind your Ps and Qs.md",
+    "PicoCTF/38 - b00tl3gRSA2.md",
+    "PicoCTF/37 - miniRSA.md",
+    "PicoCTF/36 - rsa-pop-quiz.md",
     "PicoCTF/35 - waves over lambda.md",
+    "Segundo-Examen-Parcial/10 - SQLLite.md",
     "PicoCTF/34 - Tapping.md",
     "PicoCTF/33 - la cifra de.md",
     "PicoCTF/32 - Caesar.md",
@@ -1460,17 +1579,6 @@
     "Segundo-Examen-Parcial/14 - Lookey here.md",
     "Segundo-Examen-Parcial/12 - Wireshark doo dooo do doo...md",
     "Segundo-Examen-Parcial/13 - Enhance!.md",
-    "Segundo-Examen-Parcial/10 - SQLLite.md",
-    "Segundo-Examen-Parcial/11 - information.md",
-    "Segundo-Examen-Parcial/09 - SQL Direct.md",
-    "Segundo-Examen-Parcial/08 - Secrets.md",
-    "Segundo-Examen-Parcial/05 - Forbidden Paths.md",
-    "Segundo-Examen-Parcial/06 - Power Cookie.md",
-    "Segundo-Examen-Parcial/07 - Roboto Sans.md",
-    "Segundo-Examen-Parcial/04 - Search Source.md",
-    "Segundo-Examen-Parcial/03 - Local Authority.md",
-    "Segundo-Examen-Parcial/02 - Inspect HTML.md",
-    "Segundo-Examen-Parcial/01 - Includes.md",
     "Segundo-Examen-Parcial/Untitled",
     "Segundo-Examen-Parcial",
     "PicoCTF"

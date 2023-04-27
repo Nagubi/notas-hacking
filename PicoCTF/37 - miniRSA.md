@@ -1,0 +1,64 @@
+# miniRSA
+
+## Descripcion
+Let's decrypt this: [ciphertext](https://jupiter.challenges.picoctf.org/static/eb5e6df8e14c52873cf88c582a1a4008/ciphertext)? Something seems a bit small.
+## Pistas
+- RSA [tutorial](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+- How could having too small an e affect the security of this 2048 bit key?
+- Make sure you don't lose precision, the numbers are pretty big (besides the e value)
+## Solucion
+```
+nagubi-picoctf@webshell:~$ wget https://jupiter.challenges.picoctf.org/static/eb5e6df8e14c52873cf88c582a1a4008/ciphertext
+--2023-04-27 16:08:54--  https://jupiter.challenges.picoctf.org/static/eb5e6df8e14c52873cf88c582a1a4008/ciphertext
+Resolving jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)... 3.131.60.8
+Connecting to jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)|3.131.60.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 884 [application/octet-stream]
+Saving to: 'ciphertext'
+
+ciphertext          100%[==================>]     884  --.-KB/s    in 0s      
+
+2023-04-27 16:08:54 (567 MB/s) - 'ciphertext' saved [884/884]
+
+nagubi-picoctf@webshell:~$ more ciphertext 
+
+N: 2933192249979498578273597604559116493668305938055895038656016010574034320151
+3369939006307531165922708949619162698623675349030430859547825708994708321803705
+3094594380993404277705800644009114318566569019827899482853099561118486869061526
+6447335094048650745177122343583526016897121008747089444846074559395684058653052
+7915802541450092946574694809584880896601317519794442862977471129319781313161842
+0565017150405559640118995890028637308686795271844207890105514750678629077390549
+6618312062140724639851809898110643121920769787029341217644048290018355046737519
+0239898455201170831410460483829448603477361305838743852756938687673
+e: 3
+
+ciphertext (c): 220531641393113403107460374692824779903015522125251987265008051
+9263755075355825243327515211479747536697517688468095325517209911688684309894900
+9928997075040876475759978477171807663778324350227946753321329064518589907823254
+36498952049751141 
+nagubi-picoctf@webshell:~$ vi mini.py
+nagubi-picoctf@webshell:~$ python mini.py 
+b'picoCTF{n33d_a_lArg3r_e_d0cd6eae}'
+nagubi-picoctf@webshell:~$ 
+
+el codigo del mini.py:
+from gmpy2 import *
+from Crypto.Util.number import long_to_bytes
+
+gmpy2.get_context().precision=2048
+
+e = 3
+c = 2205316413931134031074603746928247799030155221252519872650080519263755075355825243327515211479747536697517688468095325517209911688684309894900992899707504087647575997847717180766377832435022794675332132906451858990782325436498952049751141
+
+root, exact= iroot(c,e)
+
+print( long_to_bytes(root))
+```
+
+## Bandera
+
+picoCTF{n33d_a_lArg3r_e_d0cd6eae}
+
+## Notas adicionales
+
+## Referencias
