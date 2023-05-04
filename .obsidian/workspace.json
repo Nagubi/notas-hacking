@@ -1466,9 +1466,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01acf8302b7bc24a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/50 - asm3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 121
+        "currentTab": 122
       }
     ],
     "direction": "vertical"
@@ -1513,6 +1525,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cc3211b5063137ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -1534,7 +1554,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/47 - vault-door-4.md",
+                "file": "PicoCTF/50 - asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1551,7 +1571,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/47 - vault-door-4.md",
+                "file": "PicoCTF/50 - asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1574,7 +1594,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/47 - vault-door-4.md"
+                "file": "PicoCTF/50 - asm3.md"
               }
             }
           }
@@ -1595,10 +1615,16 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "9db5b8ed8314efef",
+  "active": "01acf8302b7bc24a",
   "lastOpenFiles": [
-    "PicoCTF/46 - vault-door-3.md",
+    "PicoCTF/48 - asm1.md",
+    "PicoCTF/49 - asm2.md",
+    "PicoCTF/50 - asm3.md",
     "PicoCTF/47 - vault-door-4.md",
+    "Segundo-Examen-Parcial/10 - SQLLite.md",
+    "Segundo-Examen-Parcial/11 - information.md",
+    "Segundo-Examen-Parcial/09 - SQL Direct.md",
+    "PicoCTF/46 - vault-door-3.md",
     "PicoCTF/45 - vault-door-1.md",
     "PicoCTF/44 - vault-door-training.md",
     "PicoCTF/41 - basic-mod1.md",
@@ -1612,17 +1638,11 @@
     "PicoCTF/37 - miniRSA.md",
     "PicoCTF/36 - rsa-pop-quiz.md",
     "PicoCTF/35 - waves over lambda.md",
-    "Segundo-Examen-Parcial/10 - SQLLite.md",
     "PicoCTF/34 - Tapping.md",
     "PicoCTF/33 - la cifra de.md",
     "PicoCTF/32 - Caesar.md",
     "PicoCTF/31 - 13.md",
     "PicoCTF/30 - Easy1.md",
-    "PicoCTF/Untitled 5.md",
-    "PicoCTF/29 - The numbers.md",
-    "PicoCTF/28 - MacroHard WeakEdge.md",
-    "Segundo-Examen-Parcial/17 - St3g0.md",
-    "Segundo-Examen-Parcial/16 - Redaction gone wrong.md",
     "Segundo-Examen-Parcial/Untitled",
     "Segundo-Examen-Parcial",
     "PicoCTF"
