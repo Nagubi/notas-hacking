@@ -1473,7 +1473,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/50 - asm3.md",
+                "file": "PicoCTF/54 - Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -1554,7 +1554,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/50 - asm3.md",
+                "file": "PicoCTF/54 - Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1571,7 +1571,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/50 - asm3.md",
+                "file": "PicoCTF/54 - Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1594,7 +1594,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/50 - asm3.md"
+                "file": "PicoCTF/54 - Safe Opener 2.md"
               }
             }
           }
@@ -1617,9 +1617,13 @@
   },
   "active": "01acf8302b7bc24a",
   "lastOpenFiles": [
+    "PicoCTF/53 - reverse_cipher.md",
+    "PicoCTF/54 - Safe Opener 2.md",
+    "PicoCTF/52 - GDB Test Drive.md",
+    "PicoCTF/51 - Need For Speed.md",
+    "PicoCTF/50 - asm3.md",
     "PicoCTF/48 - asm1.md",
     "PicoCTF/49 - asm2.md",
-    "PicoCTF/50 - asm3.md",
     "PicoCTF/47 - vault-door-4.md",
     "Segundo-Examen-Parcial/10 - SQLLite.md",
     "Segundo-Examen-Parcial/11 - information.md",
@@ -1639,10 +1643,6 @@
     "PicoCTF/36 - rsa-pop-quiz.md",
     "PicoCTF/35 - waves over lambda.md",
     "PicoCTF/34 - Tapping.md",
-    "PicoCTF/33 - la cifra de.md",
-    "PicoCTF/32 - Caesar.md",
-    "PicoCTF/31 - 13.md",
-    "PicoCTF/30 - Easy1.md",
     "Segundo-Examen-Parcial/Untitled",
     "Segundo-Examen-Parcial",
     "PicoCTF"
