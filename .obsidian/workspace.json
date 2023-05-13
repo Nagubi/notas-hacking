@@ -1485,7 +1485,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/59 - Stonks.md",
+                "file": "Tercer-Examen-Parcial/16 - two-sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -1566,7 +1566,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/59 - Stonks.md",
+                "file": "Tercer-Examen-Parcial/16 - two-sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1583,7 +1583,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/59 - Stonks.md",
+                "file": "Tercer-Examen-Parcial/16 - two-sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1606,7 +1606,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/59 - Stonks.md"
+                "file": "Tercer-Examen-Parcial/16 - two-sum.md"
               }
             }
           }
@@ -1629,32 +1629,33 @@
   },
   "active": "fc22a419673a462e",
   "lastOpenFiles": [
-    "PicoCTF/58 - flag leak.md",
-    "PicoCTF/59 - Stonks.md",
+    "Tercer-Examen-Parcial/15 - clutter-overflow.md",
+    "Tercer-Examen-Parcial/16 - two-sum.md",
+    "Tercer-Examen-Parcial/14 - Local Target.md",
+    "Tercer-Examen-Parcial/01 - Flags.md",
     "PicoCTF/57 - buffer overflow 1.md",
     "PicoCTF/56 - buffer overflow 0.md",
-    "PicoCTF/55 - basic-file-exploit.md",
+    "Tercer-Examen-Parcial/13 - Picker IV.md",
+    "PicoCTF/52 - GDB Test Drive.md",
     "PicoCTF/54 - Safe Opener 2.md",
     "PicoCTF/53 - reverse_cipher.md",
-    "PicoCTF/52 - GDB Test Drive.md",
     "PicoCTF/51 - Need For Speed.md",
-    "PicoCTF/50 - asm3.md",
-    "PicoCTF/48 - asm1.md",
-    "PicoCTF/49 - asm2.md",
-    "PicoCTF/47 - vault-door-4.md",
-    "Segundo-Examen-Parcial/10 - SQLLite.md",
-    "Segundo-Examen-Parcial/11 - information.md",
-    "Segundo-Examen-Parcial/09 - SQL Direct.md",
-    "PicoCTF/46 - vault-door-3.md",
-    "PicoCTF/45 - vault-door-1.md",
-    "PicoCTF/44 - vault-door-training.md",
-    "PicoCTF/41 - basic-mod1.md",
-    "PicoCTF/43 - ReadMyCert.md",
-    "PicoCTF/42 - HideToSee.md",
-    "picoCTF 2023/ReadMyCert.md",
-    "picoCTF 2023/HideToSee.md",
-    "PicoCTF/40 - Pixelated.md",
-    "PicoCTF/39 -  Mind your Ps and Qs.md",
+    "PicoCTF/55 - basic-file-exploit.md",
+    "PicoCTF/59 - Stonks.md",
+    "Tercer-Examen-Parcial/12 - GDB baby step 2.md",
+    "Tercer-Examen-Parcial/10 - Bit-O-Asm-4.md",
+    "Tercer-Examen-Parcial/11 - GDB baby step 1.md",
+    "Tercer-Examen-Parcial/08 - Bit-O-Asm-2.md",
+    "Tercer-Examen-Parcial/09 - Bit-O-Asm-3.md",
+    "Tercer-Examen-Parcial/07 - Bit-O-Asm-1.md",
+    "Tercer-Examen-Parcial/06 - ASCII FTW.md",
+    "Tercer-Examen-Parcial/05 - SRA.md",
+    "Tercer-Examen-Parcial/04 - Vigenere.md",
+    "Tercer-Examen-Parcial/03 - transposition-trial.md",
+    "Tercer-Examen-Parcial/02 - Mr-Worldwide.md",
+    "PicoCTF/10 - JaWT Scratchpad.md",
+    "Untitled.md",
+    "Tercer-Examen-Parcial",
     "Segundo-Examen-Parcial/Untitled",
     "Segundo-Examen-Parcial",
     "PicoCTF"
