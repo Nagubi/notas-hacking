@@ -1485,7 +1485,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/57 - buffer overflow 1.md",
+                "file": "PicoCTF/59 - Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -1566,7 +1566,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/57 - buffer overflow 1.md",
+                "file": "PicoCTF/59 - Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1583,7 +1583,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/57 - buffer overflow 1.md",
+                "file": "PicoCTF/59 - Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1606,7 +1606,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/57 - buffer overflow 1.md"
+                "file": "PicoCTF/59 - Stonks.md"
               }
             }
           }
@@ -1629,8 +1629,10 @@
   },
   "active": "fc22a419673a462e",
   "lastOpenFiles": [
-    "PicoCTF/56 - buffer overflow 0.md",
+    "PicoCTF/58 - flag leak.md",
+    "PicoCTF/59 - Stonks.md",
     "PicoCTF/57 - buffer overflow 1.md",
+    "PicoCTF/56 - buffer overflow 0.md",
     "PicoCTF/55 - basic-file-exploit.md",
     "PicoCTF/54 - Safe Opener 2.md",
     "PicoCTF/53 - reverse_cipher.md",
@@ -1653,8 +1655,6 @@
     "picoCTF 2023/HideToSee.md",
     "PicoCTF/40 - Pixelated.md",
     "PicoCTF/39 -  Mind your Ps and Qs.md",
-    "PicoCTF/38 - b00tl3gRSA2.md",
-    "PicoCTF/37 - miniRSA.md",
     "Segundo-Examen-Parcial/Untitled",
     "Segundo-Examen-Parcial",
     "PicoCTF"
